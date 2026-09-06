@@ -65,3 +65,12 @@ Root
 - Alien: Isolation: Alien AI with unpredictable patrol patterns
 - The Last of Us: Guard AI with realistic patrol routes
 - Dishonored: readable patrol patterns with readable vision cones
+
+## Tutorials
+
+- [Unity 3D Tutorial | Create Easy Enemy Patrol A.I With NavMesh](https://www.youtube.com/watch?v=rfajB5QTxxo) — Polycarbon Games covers NavMesh-based patrol, attack radius detection, and waypoint cycling
+- [Enemy AI: Investigate, Patrol, Chase, Attack in Godot 4](https://www.youtube.com/watch?v=a_6LNbSbMXM) — 16BitDev covers state machine-based enemy AI with patrol routes and field-of-view detection
+
+## Image Sources
+
+- Character sprites for AI demos — [Kenney Platformer Kit](https://kenney.nl/assets/platformer-kit) (CC0 Public Domain)

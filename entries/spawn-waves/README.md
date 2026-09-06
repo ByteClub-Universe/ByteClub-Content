@@ -39,3 +39,12 @@ Combines fixed and dynamic elements. Some waves are scripted for story beats, ot
 - Deep Rock Galactic: Each mission type has unique spawn rules
 - Vampire Survivors: Enemies spawn continuously with escalating density
 - Risk of Rain 2: Difficulty scales with time, not waves
+
+## Tutorials
+
+- [Wave Spawn System - Code Monkey](https://www.youtube.com/watch?v=gbFBWxtpgpQ) — Building a multi-wave battle system with timers, enemy tracking, and wave completion detection in Unity
+- [How to Make a Tower Defense Game - E3 Level Manager](https://www.youtube.com/watch?v=_Zl7NIsQBf4) — BlackHoleBlueprints covers spawner scripts, wave counters, and enemy tracking in Unity
+
+## Image Sources
+
+- Character sprites for wave demos — [Kenney Platformer Kit](https://kenney.nl/assets/platformer-kit) (CC0 Public Domain)

@@ -43,3 +43,12 @@ A combo system chains individual attacks into fluid sequences. Each successive h
 - Bayonetta: Wicked Weaves at combo end, torture attacks
 - Street Fighter 6: Drive system with cancel windows
 - Hades: Combo-dependent boon interactions
+
+## Tutorials
+
+- [Level up your code with game programming patterns: Pattern combo - Unity](https://www.youtube.com/watch?v=3xvsaGMb-M0) — Unity's design patterns series covering Command, Strategy, Factory, and Observer patterns in a fighting game combo system
+- [I Built a 3D Fighting Game AI That Actually Combos - Godot Devlog](https://www.youtube.com/watch?v=lrjviyZNRxs) — Amir covers state machines, hitbox/hurtbox detection, combo counter system, and dash cancels
+
+## Image Sources
+
+- Character sprites for combat demos — [Kenney Platformer Kit](https://kenney.nl/assets/platformer-kit) (CC0 Public Domain)

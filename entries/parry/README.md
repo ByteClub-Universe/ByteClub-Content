@@ -48,3 +48,12 @@ A parry is a timed defensive action where the player deflects an incoming attack
 - Street Fighter 6: Perfect Parry withDrive Impact follow-up
 - Dead Cells: Shield parry with timing-based window
 - Cuphead: Parry on pink projectiles, core mechanic
+
+## Tutorials
+
+- [Making a Sekiro-Style Block & Parry System - UE5 & GAS](https://www.youtube.com/watch?v=vJ8AQklzezo) — Foxcoder covers implementing deflect windows, animation events, and hitstop in Unreal Engine 5
+- [Reversal, Counter, & Parry - Fighting Game Tutorial UE4/UE5](https://www.youtube.com/watch?v=9xdtFfkAsm0) — Shawnthebro covers reversals, counter stances, and parry triggers in a fighting game
+
+## Image Sources
+
+- Character sprites for combat demos — [Kenney Platformer Kit](https://kenney.nl/assets/platformer-kit) (CC0 Public Domain)

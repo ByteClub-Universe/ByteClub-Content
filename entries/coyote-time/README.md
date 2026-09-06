@@ -34,3 +34,12 @@ Without coyote time, players frequently miss jumps they feel they should have ma
 - Super Meat Boy: Generous coyote time combined with instant respawn
 - Hollow Knight: Coyote time on ledge jumps
 - Ori and the Blind Forest: Generous edge detection across all movement
+
+## Tutorials
+
+- [Improve Annoying Jump Controls With Coyote Time and Jump Buffering](https://www.youtube.com/watch?v=oQ9877FdR8o) — Ketra Games covers implementing coyote time and jump buffering with nullable timers in Unity
+- [Coyote Time & Jump Buffering In Unity](https://www.youtube.com/watch?v=RFix_Kg2Di0) — bendux covers coyote time counters and jump buffer counters with clear implementation walkthrough
+
+## Image Sources
+
+- Character sprites for platformer demos — [Kenney Jumper Pack](https://kenney.nl/assets/jumper-pack) (CC0 Public Domain)

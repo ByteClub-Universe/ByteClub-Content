@@ -43,3 +43,12 @@ Input buffering pairs naturally with coyote time:
 - Street Fighter 6: Input buffer for special move cancels
 - Hollow Knight: Generous buffering on all actions
 - Dead Cells: Buffer window on dodge and attack inputs
+
+## Tutorials
+
+- [Coyote Time & Jump Buffering In Unity](https://www.youtube.com/watch?v=RFix_Kg2Di0) — bendux covers implementing jump buffering alongside coyote time with buffer counters
+- [Level Up Your Unity Combat with Input Buffers](https://www.wayline.io/blog/unity-combat-input-buffer) — Wayline covers building a queue-based input buffer system with animation integration
+
+## Image Sources
+
+- Character sprites for platformer demos — [Kenney Jumper Pack](https://kenney.nl/assets/jumper-pack) (CC0 Public Domain)

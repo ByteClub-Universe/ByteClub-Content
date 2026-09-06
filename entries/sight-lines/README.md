@@ -41,3 +41,12 @@ Multiple layers of visible depth — foreground objects partially obscuring back
 - Metroid Prime: Visible items behind glass you can't yet break
 - BioShock: Art Deco architecture creates strong vertical sight lines
 - The Last of Us: Environmental storytelling through controlled visibility
+
+## Tutorials
+
+- [Enemy Line of Sight, Stealth Game in Unity - Field of View](https://www.youtube.com/watch?v=3-jPo2wzvdw) — Covers implementing vision cones and line-of-sight detection for stealth AI
+- [STEALTH ENEMY AI WITH UNITY AND C# - EASY TUTORIAL](https://www.youtube.com/watch?v=GPrGg8UDB_E) — Basics of stealth enemy AI with sight and hearing mechanics
+
+## Image Sources
+
+- Environment tiles for level design — [Kenney Platformer Kit](https://kenney.nl/assets/platformer-kit) (CC0 Public Domain)

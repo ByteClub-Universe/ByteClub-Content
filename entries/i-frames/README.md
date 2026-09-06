@@ -32,3 +32,12 @@ I-frames are a brief window of invincibility granted to the player after taking 
 - Hollow Knight: Damage boost with brief invincibility after taking a hit
 - Celeste: Death respawn gives I-frames during repositioning
 - Dead Cells: Dodge roll I-frames are the primary defensive tool
+
+## Tutorials
+
+- [Invincibility Frames & Blinking - GameMaker Tutorial](https://www.youtube.com/watch?v=BEFoOBKJT98) — Heartbeast covers implementing I-frames with visual blinking feedback using modulo math
+- [Unity 2D Platformer #8 IFRAMES](https://www.youtube.com/watch?v=YSzmCf_L2cE) — Pandemonium Games covers adding invulnerability frames to a health system in Unity
+
+## Image Sources
+
+- Character sprites for platformer demos — [Kenney Jumper Pack](https://kenney.nl/assets/jumper-pack) (CC0 Public Domain)
