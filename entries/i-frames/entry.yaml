@@ -23,7 +23,13 @@ description: >
   A brief window of invincibility after taking damage, preventing
   consecutive hits and giving the player time to recover.
 
-media: []
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=BEFoOBKJT98
+    source: YouTube - Invincibility Frames & Blinking - GameMaker Tutorial
+  - type: video
+    url: https://www.youtube.com/watch?v=YSzmCf_L2cE
+    source: YouTube - Unity 2D Platformer #8 IFRAMES
 
 contributor:
   name: ByteClub

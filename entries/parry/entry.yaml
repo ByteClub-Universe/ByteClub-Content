@@ -24,7 +24,13 @@ description: >
   an attack at the exact moment of impact, often rewarding
   with a counter-attack opportunity or posture damage.
 
-media: []
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=vJ8AQklzezo
+    source: YouTube - Making a Sekiro-Style Block & Parry System
+  - type: video
+    url: https://www.youtube.com/watch?v=9xdtFfkAsm0
+    source: YouTube - Reversal, Counter, & Parry - Fighting Game Tutorial
 
 contributor:
   name: ByteClub

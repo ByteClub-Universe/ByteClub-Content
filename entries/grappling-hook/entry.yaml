@@ -22,8 +22,11 @@ description: >
 
 media:
   - type: video
-    url: https://example.com/video
-    source: youtube
+    url: https://www.youtube.com/watch?v=TYzZsBl3OI0
+    source: YouTube - ADVANCED GRAPPLING HOOK in 11 MINUTES
+  - type: video
+    url: https://www.youtube.com/watch?v=q9F_ricTfw4
+    source: YouTube - Physically Accurate Grappling Hook/Gun in Unity
 
 contributor:
   name: ByteClub

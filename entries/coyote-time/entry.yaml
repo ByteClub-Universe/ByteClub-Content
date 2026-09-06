@@ -24,7 +24,13 @@ description: >
   the player can still jump, making platforming feel fairer
   and more responsive.
 
-media: []
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=oQ9877FdR8o
+    source: YouTube - Improve Annoying Jump Controls With Coyote Time
+  - type: video
+    url: https://www.youtube.com/watch?v=RFix_Kg2Di0
+    source: YouTube - Coyote Time & Jump Buffering In Unity
 
 contributor:
   name: ByteClub

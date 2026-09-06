@@ -24,7 +24,13 @@ description: >
   into fluid sequences, often with escalating damage, style
   ratings, or unlockable finishers.
 
-media: []
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=3xvsaGMb-M0
+    source: YouTube - Level up your code with game programming patterns
+  - type: video
+    url: https://www.youtube.com/watch?v=lrjviyZNRxs
+    source: YouTube - I Built a 3D Fighting Game AI That Actually Combos
 
 contributor:
   name: ByteClub

@@ -24,7 +24,13 @@ description: >
   dynamic waves, controlling pacing, difficulty escalation,
   and resource management across a combat encounter.
 
-media: []
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=gbFBWxtpgpQ
+    source: YouTube - Wave Spawn System - Code Monkey
+  - type: video
+    url: https://www.youtube.com/watch?v=_Zl7NIsQBf4
+    source: YouTube - How to Make a Tower Defense Game - E3 Level Manager
 
 contributor:
   name: ByteClub

@@ -24,7 +24,13 @@ description: >
   them as soon as the current action completes, making
   controls feel responsive even during long animations.
 
-media: []
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=RFix_Kg2Di0
+    source: YouTube - Coyote Time & Jump Buffering In Unity
+  - type: external
+    url: https://www.wayline.io/blog/unity-combat-input-buffer
+    source: Wayline - Level Up Your Unity Combat with Input Buffers
 
 contributor:
   name: ByteClub

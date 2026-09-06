@@ -24,7 +24,13 @@ description: >
   see at any given moment, used to guide exploration,
   create tension, reveal secrets, and direct player flow.
 
-media: []
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=3-jPo2wzvdw
+    source: YouTube - Enemy Line of Sight, Stealth Game in Unity
+  - type: video
+    url: https://www.youtube.com/watch?v=GPrGg8UDB_E
+    source: YouTube - STEALTH ENEMY AI WITH UNITY AND C#
 
 contributor:
   name: ByteClub

@@ -24,7 +24,13 @@ description: >
   paths or routines, creating predictable patterns that
   players can observe, learn, and exploit.
 
-media: []
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=rfajB5QTxxo
+    source: YouTube - Unity 3D Tutorial | Create Easy Enemy Patrol A.I With NavMesh
+  - type: video
+    url: https://www.youtube.com/watch?v=a_6LNbSbMXM
+    source: YouTube - Enemy AI: Investigate, Patrol, Chase, Attack in Godot 4
 
 contributor:
   name: ByteClub
