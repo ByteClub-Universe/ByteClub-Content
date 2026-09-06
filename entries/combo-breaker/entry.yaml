@@ -1,0 +1,38 @@
+name: Combo Breaker
+slug: combo-breaker
+
+type: mechanic
+
+categories:
+  - combat
+  - fighting-games
+
+tags:
+  - counter-play
+  - risk-reward
+  - resource-management
+  - mind-games
+
+games:
+  - Killer Instinct
+  - Mortal Kombat 11
+  - Guilty Gear Strive
+  - Tekken 8
+
+description: >
+  When someone's comboing you and you've had enough. Spend
+  resources to break out and reset to neutral. It's the
+  "get off me" button that turns one-sided beatdowns into
+  actual matches.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=nBHevCjODcs
+    source: YouTube - Combo Breaker System Design
+  - type: video
+    url: https://www.youtube.com/watch?v=Gg1E3Z14gRM
+    source: YouTube - Killer Instinct Combo System Breakdown
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

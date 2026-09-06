@@ -1,0 +1,39 @@
+name: Crafting System
+slug: crafting-system
+
+type: system
+
+categories:
+  - progression
+  - player-expression
+
+tags:
+  - resource-gathering
+  - customization
+  - recipes
+  - player-agency
+
+games:
+  - Minecraft
+  - Terraria
+  - Monster Hunter Rise
+  - Valheim
+
+description: >
+  Grab stuff, mash it together, make better stuff. Sounds
+  simple but crafting systems are deceptively deep. The best
+  ones make gathering feel rewarding and creation feel like
+  genuine discovery. Minecraft literally built an empire on
+  this.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=O3CxLa1e6eU
+    source: YouTube - Crafting System Design in Games
+  - type: video
+    url: https://www.youtube.com/watch?v=FzFotW0kS1M
+    source: YouTube - Monster Hunter Weapon Crafting Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

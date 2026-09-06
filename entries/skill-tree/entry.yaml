@@ -1,0 +1,39 @@
+name: Skill Tree
+slug: skill-tree
+
+type: system
+
+categories:
+  - progression
+  - player-expression
+
+tags:
+  - build-diversity
+  - specialization
+  - choice
+  - long-term-progression
+
+games:
+  - Path of Exile
+  - Borderlands 3
+  - Assassin's Creed Valhalla
+  - Hades
+
+description: >
+  The visual representation of "who am I becoming?" Skill trees
+  let players specialize, experiment, and create builds that
+  feel uniquely theirs. The best ones make every point feel
+  meaningful. The worst ones make you respect because you
+  picked the wrong node.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=VqsQ1Wn1gvI
+    source: YouTube - Skill Tree Design in RPGs
+  - type: video
+    url: https://www.youtube.com/watch?v=sRTHQ1p5z1U
+    source: YouTube - Path of Exile Skill Tree Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

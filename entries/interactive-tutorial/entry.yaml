@@ -1,0 +1,38 @@
+name: Interactive Tutorial
+slug: interactive-tutorial
+
+type: ui_ux
+
+categories:
+  - onboarding
+  - player-experience
+
+tags:
+  - teaching
+  - learn-by-doing
+  - pacing
+  - accessibility
+
+games:
+  - Portal
+  - Half-Life 2
+  - Super Mario Bros
+  - Astro Bot
+
+description: >
+  Forget walls of text. Teach players by making them DO the
+  thing. The best tutorials don't even feel like tutorials —
+  they feel like playing the game. If your tutorial needs a
+  skip button, you already failed.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=8NYpHQ1uCrY
+    source: YouTube - How Portal Teaches Without Tutorials
+  - type: video
+    url: https://www.youtube.com/watch?v=MMXJDPݴmg
+    source: YouTube - Game Tutorial Design Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

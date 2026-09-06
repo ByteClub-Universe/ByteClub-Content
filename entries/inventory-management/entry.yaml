@@ -1,0 +1,38 @@
+name: Inventory Management
+slug: inventory-management
+
+type: system
+
+categories:
+  - ui_ux
+  - gameplay
+
+tags:
+  - resource-management
+  - tension
+  - spatial-puzzles
+  - survival-horror
+
+games:
+  - Resident Evil 4
+  - Escape from Tarkov
+  - Path of Exile
+  - Stardew Valley
+
+description: >
+  When your backpack becomes a puzzle. Limited slots force
+  players to make hard choices about what to keep. It's the
+  mechanic that turns "I need everything" into "what do I
+  ACTUALLY need?" Resident Evil 4's briefcase is iconic.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=NlqZ4LT1Jxk
+    source: YouTube - Inventory Management Design
+  - type: video
+    url: https://www.youtube.com/watch?v=KfWFRaUn8Jo
+    source: YouTube - Resident Evil 4 Inventory Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

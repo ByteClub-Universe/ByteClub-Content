@@ -1,0 +1,38 @@
+name: Time Manipulation
+slug: time-manipulation
+
+type: mechanic
+
+categories:
+  - puzzle
+  - combat
+
+tags:
+  - rewind
+  - slow-motion
+  - causality
+  - mind-bending
+
+games:
+  - Prince of Persia: The Sands of Time
+  - Bayonetta
+  - Superhot
+  - Life is Strange
+
+description: >
+  Pause, rewind, slow-mo, or freeze time itself. Time
+  manipulation makes you feel like a god and turns ordinary
+  puzzles into mind-bending challenges. Prince of Persia
+  literally built a franchise on "undo that death."
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=wK1aZvBQn2Y
+    source: YouTube - Time Manipulation Mechanics in Games
+  - type: video
+    url: https://www.youtube.com/watch?v=6kMm1WHRp2k
+    source: YouTube - Superhot Time Mechanic Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

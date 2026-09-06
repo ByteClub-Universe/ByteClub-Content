@@ -1,0 +1,39 @@
+name: Stealth Detection
+slug: stealth-detection
+
+type: system
+
+categories:
+  - AI
+  - gameplay
+
+tags:
+  - visibility
+  - detection-cones
+  - enemy-awareness
+  - player-agency
+
+games:
+  - Metal Gear Solid V
+  - Hitman 3
+  - Alien: Isolation
+  - The Last of Us Part II
+
+description: >
+  How enemies figure out you're there. Vision cones, sound
+  propagation, NPC communication — it's the whole system that
+  makes stealth games tense and satisfying. Get it wrong and
+  players feel cheated; get it right and every encounter is
+  a puzzle.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=8o-iq1bNRqY
+    source: YouTube - Stealth AI System in Unity
+  - type: video
+    url: https://www.youtube.com/watch?v=GLOxH9LZXTo
+    source: YouTube - Hitman AI Design Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

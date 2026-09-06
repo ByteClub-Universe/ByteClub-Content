@@ -1,0 +1,39 @@
+name: Resource Scarcity
+slug: resource-scarcity
+
+type: system
+
+categories:
+  - survival
+  - tension
+
+tags:
+  - pressure
+  - decision-making
+  - survival-horror
+  - economy
+
+games:
+  - Resident Evil
+  - Subnautica
+  - This War of Mine
+  - The Long Dark
+
+description: >
+  When you're down to your last three bullets and there's
+  something in the dark. Resource scarcity turns every pickup
+  into a decision and every encounter into a question: can I
+  afford to fight? It's the mechanic that makes survival games
+  actually feel like survival.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=5pqB3ELqVhE
+    source: YouTube - Resource Scarcity in Survival Games
+  - type: video
+    url: https://www.youtube.com/watch?v=G2HKeZ1v3fk
+    source: YouTube - Resident Evil Resource Design Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

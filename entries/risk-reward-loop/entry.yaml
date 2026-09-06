@@ -1,0 +1,39 @@
+name: Risk-Reward Loop
+slug: risk-reward-loop
+
+type: system
+
+categories:
+  - game_feel
+  - player psychology
+
+tags:
+  - decision-making
+  - tension
+  - gambling
+  - strategy
+
+games:
+  - XCOM 2
+  - Hades
+  - Civilization VI
+  - Monster Hunter Rise
+
+description: >
+  The mechanic that makes you say "one more run." Do you push
+  deeper for better loot but risk losing everything? Do you
+  skip the side objective to save resources? Every meaningful
+  choice is a risk-reward calculation, and the best games
+  make that calculation exciting.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=4fC_oQz3n3s
+    source: YouTube - Risk vs Reward in Game Design
+  - type: video
+    url: https://www.youtube.com/watch?v=GdYsE3yBk8Y
+    source: YouTube - XCOM Design Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

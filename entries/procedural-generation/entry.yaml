@@ -1,0 +1,38 @@
+name: Procedural Generation
+slug: procedural-generation
+
+type: system
+
+categories:
+  - level-design
+  - replayability
+
+tags:
+  - randomness
+  - algorithms
+  - replayability
+  - content-creation
+
+games:
+  - Spelunky
+  - Rogue Legacy 2
+  - Dead Cells
+  - Minecraft
+
+description: >
+  When you want infinite content without infinite developers.
+  Algorithms build levels, encounters, or worlds on the fly.
+  The trick is making it feel handcrafted while being random
+  as heck. Spelunky basically wrote the book on this.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=GpTk5vwaNtU
+    source: YouTube - Spelunky's Procedural Generation Explained
+  - type: video
+    url: https://www.youtube.com/watch?v=ZZY9YE7rZJw
+    source: YouTube - Procedural Level Generation Techniques
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

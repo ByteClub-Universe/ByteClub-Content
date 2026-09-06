@@ -1,0 +1,39 @@
+name: Environmental Storytelling
+slug: environmental-storytelling
+
+type: game_feel
+
+categories:
+  - narrative
+  - level-design
+
+tags:
+  - world-building
+  - immersion
+  - discovery
+  - implicit-narrative
+
+games:
+  - Bioshock
+  - Dark Souls
+  - What Remains of Edith Finch
+  - The Last of Us
+
+description: >
+  The story the world tells without saying a word. A skeleton
+  clutching a photo. An empty child's room. Scratch marks on a
+  locked door. Environmental storytelling lets players piece
+  together narratives through observation, and it hits harder
+  than any cutscene.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=Gx2sDqWq1R0
+    source: YouTube - Environmental Storytelling in Games
+  - type: video
+    url: https://www.youtube.com/watch?v=8L2WdHPdb2Y
+    source: YouTube - Bioshock Environmental Design Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

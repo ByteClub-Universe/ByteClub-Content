@@ -1,0 +1,38 @@
+name: Dodge Roll
+slug: dodge-roll
+
+type: mechanic
+
+categories:
+  - combat
+  - movement
+
+tags:
+  - evasion
+  - invincibility-frames
+  - positioning
+  - risk-reward
+
+games:
+  - Dark Souls
+  - Hades
+  - Enter the Gungeon
+  - Dead Cells
+
+description: >
+  The bread and butter of action game survival. Player character
+  rolls in a direction, usually with a few frames of invincibility
+  baked in. Simple concept, but the execution window, distance,
+  and recovery frames are where the magic lives.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=dsyIluXs7dU
+    source: YouTube - How to Make a Dodge Roll in Godot
+  - type: video
+    url: https://www.youtube.com/watch?v=G5aatedpGqI
+    source: YouTube - Souls-Like Dodge Roll Tutorial
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

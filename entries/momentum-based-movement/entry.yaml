@@ -1,0 +1,38 @@
+name: Momentum-Based Movement
+slug: momentum-based-movement
+
+type: mechanic
+
+categories:
+  - movement
+  - game_feel
+
+tags:
+  - acceleration
+  - flow-state
+  - platforming
+  - skill-expression
+
+games:
+  - Celeste
+  - Doom Eternal
+  - Sonic Mania
+  - Metroid Dread
+
+description: >
+  Movement that respects physics and feels buttery smooth. Your
+  character builds speed, carries momentum, and transitions between
+  states fluidly. Get this right and players will spend hours just
+  traversing the map because it feels that good.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=yorTG9at90g
+    source: YouTube - Celeste Movement Deep Dive
+  - type: video
+    url: https://www.youtube.com/watch?v=a0bTnDJCQCM
+    source: YouTube - Doom Eternal Movement & Combat Loop
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

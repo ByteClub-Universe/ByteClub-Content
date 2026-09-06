@@ -1,0 +1,39 @@
+name: Dynamic Music
+slug: dynamic-music
+
+type: system
+
+categories:
+  - audio
+  - game_feel
+
+tags:
+  - adaptive-audio
+  - layering
+  - intensity
+  - immersion
+
+games:
+  - Doom Eternal
+  - Hades
+  - Red Dead Redemption 2
+  - Celeste
+
+description: >
+  Music that responds to what you're doing. Fighting a boss?
+  The drums kick in harder. Low on health? The intensity ramps
+  up. It's the difference between a soundtrack and a living,
+  breathing audio experience that makes every moment feel
+  cinematic.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=7pkqRMI5-8w
+    source: YouTube - Dynamic Music Systems in Games
+  - type: video
+    url: https://www.youtube.com/watch?v=xyE2Qe6vBqY
+    source: YouTube - How Doom Eternal's Music Works
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

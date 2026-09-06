@@ -1,0 +1,38 @@
+name: Dynamic Difficulty Adjustment
+slug: dynamic-difficulty
+
+type: system
+
+categories:
+  - difficulty
+  - player-experience
+
+tags:
+  - adaptive
+  - accessibility
+  - retention
+  - invisible-hand
+
+games:
+  - Resident Evil 4
+  - Left 4 Dead 2
+  - Forza Horizon 5
+  - Devil May Cry 5
+
+description: >
+  The invisible hand that keeps things fun. Game watches how
+  you're playing and quietly adjusts — give struggling players
+  a break, challenge dominating players harder. Do it well and
+  nobody notices. Do it poorly and players feel patronized.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=zx7vG4Pvdxs
+    source: YouTube - Dynamic Difficulty Adjustment Explained
+  - type: video
+    url: https://www.youtube.com/watch?v=E1ozhIJM7TI
+    source: YouTube - Left 4 Dead AI Director Deep Dive
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

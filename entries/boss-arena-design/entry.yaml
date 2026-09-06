@@ -1,0 +1,38 @@
+name: Boss Arena Design
+slug: boss-arena-design
+
+type: level_design
+
+categories:
+  - encounter-design
+  - pacing
+
+tags:
+  - boss-fights
+  - arena-layout
+  - phase-transitions
+  - spectacle
+
+games:
+  - Hollow Knight
+  - Elden Ring
+  - Cuphead
+  - God of War Ragnarok
+
+description: >
+  The stage where the magic happens. Boss arenas aren't just
+  big rooms — they're carefully crafted spaces that dictate
+  how the fight plays out. Pillars for cover, platforms for
+  verticality, hazards for pressure. The arena IS the fight.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=gB4i_JYsFeo
+    source: YouTube - Boss Arena Design Principles
+  - type: video
+    url: https://www.youtube.com/watch?v=81a_ky2yKtc
+    source: YouTube - Hollow Knight Boss Design Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

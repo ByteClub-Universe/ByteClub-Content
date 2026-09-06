@@ -30,8 +30,8 @@ media:
     source: YouTube - Unity 3D Tutorial | Create Easy Enemy Patrol A.I With NavMesh
   - type: video
     url: https://www.youtube.com/watch?v=a_6LNbSbMXM
-    source: YouTube - Enemy AI: Investigate, Patrol, Chase, Attack in Godot 4
+    source: "YouTube - Enemy AI: Investigate, Patrol, Chase, Attack in Godot 4"
 
 contributor:
   name: ByteClub
-  github: byteclub
+  github: ByteClub-Universe

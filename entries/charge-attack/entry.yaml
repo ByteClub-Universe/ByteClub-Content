@@ -1,0 +1,38 @@
+name: Charge Attack
+slug: charge-attack
+
+type: mechanic
+
+categories:
+  - combat
+  - risk-reward
+
+tags:
+  - timing
+  - damage-scaling
+  - commitment
+  - patience
+
+games:
+  - Hollow Knight
+  - Monster Hunter Rise
+  - Metroid Dread
+  - Dark Souls
+
+description: >
+  Hold the button, release for big damage. The charge attack
+  rewards patience and timing over button mashing. You're
+  vulnerable while charging, so landing it feels incredible.
+  Missing it feels like you wasted your life.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=G5aatedpGqI
+    source: YouTube - Charge Attack Design in Action Games
+  - type: video
+    url: https://www.youtube.com/watch?v=81a_ky2yKtc
+    source: YouTube - Hollow Knight Combat Mechanics Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

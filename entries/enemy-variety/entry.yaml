@@ -1,0 +1,38 @@
+name: Enemy Variety
+slug: enemy-variety
+
+type: system
+
+categories:
+  - encounter-design
+  - difficulty
+
+tags:
+  - enemy-design
+  - counter-play
+  - encounter-composition
+  - learning-curve
+
+games:
+  - Doom Eternal
+  - Hollow Knight
+  - Hades
+  - Monster Hunter Rise
+
+description: >
+  The spice of combat. Different enemies force different
+  strategies, and mixing them creates emergent complexity.
+  Doom Eternal literally makes you switch weapons per enemy
+  type. That's how you do variety right.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=8PVal8FyqCM
+    source: YouTube - Enemy Variety Design in Action Games
+  - type: video
+    url: https://www.youtube.com/watch?v=a0bTnDJCQCM
+    source: YouTube - Doom Eternal Enemy Design Analysis
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

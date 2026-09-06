@@ -1,0 +1,38 @@
+name: Wall Jump
+slug: wall-jump
+
+type: mechanic
+
+categories:
+  - movement
+  - platforming
+
+tags:
+  - verticality
+  - skill-ceiling
+  - traversal
+  - fluidity
+
+games:
+  - Celeste
+  - Super Metroid
+  - Guacamelee 2
+  - Ori and the Will of the Wisps
+
+description: >
+  Jump off walls. Sounds simple, feels incredible. Wall jumping
+  turns flat levels into vertical playgrounds and makes movement
+  feel like an extension of the player's will. Master it and
+  you're flying. Can't do it? You're watching someone else fly.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=2M7fW2RC1Xk
+    source: YouTube - Wall Jump Mechanics in Platformers
+  - type: video
+    url: https://www.youtube.com/watch?v=yorTG9at90g
+    source: YouTube - Celeste Movement System Breakdown
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe

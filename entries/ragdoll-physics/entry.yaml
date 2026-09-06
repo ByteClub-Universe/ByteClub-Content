@@ -1,0 +1,40 @@
+name: Ragdoll Physics
+slug: ragdoll-physics
+
+type: game_feel
+
+categories:
+  - physics
+  - humor
+  - immersion
+
+tags:
+  - simulation
+  - comedy
+  - emergent-behavior
+  - player-expression
+
+games:
+  - Grand Theft Auto V
+  - Human Fall Flat
+  - Gang Beasts
+  - Elden Ring
+
+description: >
+  When characters stop being animations and start being physics
+  objects. Ragdoll makes defeated enemies flop around
+  realistically (or hilariously). It's the mechanic that turns
+  serious combat into comedy gold and emergent gameplay moments
+  players actually share with friends.
+
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=KJ4qADfvOfY
+    source: YouTube - Ragdoll Physics in Games
+  - type: video
+    url: https://www.youtube.com/watch?v=LyV4o7F5P3s
+    source: YouTube - Physics-Based Game Design
+
+contributor:
+  name: ByteClub
+  github: ByteClub-Universe
