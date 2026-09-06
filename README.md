@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://byteclub.space"><img src="https://img.shields.io/badge/Website-byteclub.space-0245EC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.gg/sGh7zurQhW"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ByteClub-Universe/website"><img src="https://img.shields.io/badge/Frontend-GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="Frontend" /></a>
   <a href="/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" /></a>
 </p>
 
